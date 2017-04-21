@@ -48,7 +48,6 @@ RUN pip install pip -U && \
     pip install setuptools -U && \
     pip install numpy -U && \
     pip install scipy -U && \
-    pip install watchdog && \
     pip install matplotlib -U 
 
 # PGPLOT
